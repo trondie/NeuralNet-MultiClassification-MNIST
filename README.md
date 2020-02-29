@@ -1,5 +1,5 @@
 # NeuralNet-MultiClassification-MNIST
-
-<img src="plots/softmaxReadme.jpg" width="50%">
-<img src="plots/vectorizedReadme.jpg" width="50%">
+Basic multiclassification, with a backpropagation like follows : 
+<img src="plots/softmaxReadme.jpg" width="40%">
+<img src="plots/vectorizedReadme.jpg" width="40%">
 
